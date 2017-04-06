@@ -1,4 +1,4 @@
-<form id="tambah" method="get" action="index2.php">
+<form id="tambah" method="get" action="index.php">
   <label>Nama</label><br>
   <input type="text" name="nm" /><br>
   <label>Jenis Kelamin </label><br>

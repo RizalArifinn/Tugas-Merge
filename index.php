@@ -24,7 +24,7 @@
           $jk = $_GET['jk'];
           $sql = "INSERT INTO tbl_nama VALUES('', '$nm', '$jk')";
           mysqli_query($konek, $sql);
-          header('location:index2.php');
+          header('location:index.php');
         }else{
 
         $sql = "SELECT * FROM tbl_nama";
